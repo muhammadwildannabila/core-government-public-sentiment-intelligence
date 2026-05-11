@@ -16,7 +16,7 @@
 
 ### 🟢 Core Project (Data Science / Machine Learning) 2026
 
-🔗 **Live Demo:** https://mwildannabila-core-government-public-sentiment-intelligence.streamlit.app/
+🔗 **Live Demo:** https://mwildannabila-ai-powered-public-sentiment-intelligence.streamlit.app/
 
 </div>
 
@@ -157,7 +157,7 @@ This platform helps government institutions to:
 
 # 🌐 Live Demo
 
-🔗 https://mwildannabila-core-government-public-sentiment-intelligence.streamlit.app/
+🔗 https://mwildannabila-ai-powered-public-sentiment-intelligence.streamlit.app/
 
 ---
 
