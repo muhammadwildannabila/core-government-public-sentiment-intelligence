@@ -14,7 +14,7 @@
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge)
 ![Domain](https://img.shields.io/badge/Domain-Government%20Analytics-purple?style=for-the-badge)
 
-### 🟢 Core Project (Data Science / Machine Learning) 2026
+### 🟢 Core Project (Data Science / Machine Learning) 2025
 
 🔗 **Live Demo:** https://mwildannabila-core-government-public-sentiment-intelligence.streamlit.app/
 
